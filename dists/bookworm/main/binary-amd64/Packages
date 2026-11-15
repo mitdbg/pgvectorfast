@@ -8,10 +8,10 @@ Conflicts: postgresql-18-pgvector
 Replaces: postgresql-18-pgvector
 Provides: postgresql-18-pgvector
 Filename: pool/bookworm/main/p/postgresql-18-pgvectorfast/postgresql-18-pgvectorfast_0.1.0.3+pg18.7-1.pgdg12+2_amd64.deb
-Size: 905764
-MD5sum: 27714a86eacedfa570abe63ddf6ca723
-SHA1: a20fdae1ea52675da782f37d2664bf1cbaf1f32c
-SHA256: 0b4db86675c7c4aa3cb55ad6a2ecc2b835111811f437a4581a2c3bfccca38573
+Size: 906692
+MD5sum: 263e84a94647a51fc365e5cd1861342b
+SHA1: 71ec7b4cc12ff469e1dd432ad5fb83a183f11d6c
+SHA256: 157e2f627a422bfdeafd76010c9c7570a1491cc31047386815e6bf4f811775d8
 Section: database
 Priority: optional
 Homepage: https://github.com/mitdbg/pgvectorfast
