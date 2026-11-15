@@ -30,10 +30,10 @@ Conflicts: postgresql-18-pgvector
 Replaces: postgresql-18-pgvector
 Provides: postgresql-18-pgvector
 Filename: pool/trixie/main/p/postgresql-18-pgvectorfast/postgresql-18-pgvectorfast_0.2.0+pg18.7-1.pgdg13+2_amd64.deb
-Size: 1084108
-MD5sum: ba4613d7c1a661a2bfad48fa6c2d012f
-SHA1: 2180125062e910d4cc0567d506741ef145bd5e36
-SHA256: 03f251d05c9c9858687bf4983512766125f4b864bf6267b55823bd6192298337
+Size: 1083916
+MD5sum: e351bee2c105df06ab664b72eca07952
+SHA1: cfdb093a397787e57b122c763865f79aeea4ee13
+SHA256: b7ab64f8b4aa0f8e8e84e5e2502ab3f61674731bb20bdea6969ea104a30fa0d4
 Section: database
 Priority: optional
 Homepage: https://github.com/mitdbg/pgvectorfast
