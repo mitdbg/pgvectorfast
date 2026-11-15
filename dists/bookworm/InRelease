@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: bookworm
+Components: main
+Date: Sun, 15 Nov 2026 05:38:31 +0000
+Label: pgvectorfast
+Origin: pgvectorfast
+Suite: bookworm
+MD5Sum:
+ 21d46c6e39bfc4747a8e03d5944fecba              152 Release
+ 3f2e4781e387d6af06daebd646492f8b             1064 main/binary-amd64/Packages
+ cb4f687e9a600174283afe1a2430271d              622 main/binary-amd64/Packages.gz
+SHA1:
+ cfcaea32a812ce47e643c348581f660b932562ec              152 Release
+ 62089f81d873057ecec9398f927de7966809c318             1064 main/binary-amd64/Packages
+ 4c854792fb0fcf897a8365cfc32e9ef195006890              622 main/binary-amd64/Packages.gz
+SHA256:
+ a644059e6d8fba3fdc4bf7358e0bfe40306523ecbb6608c7d2fe724f5c2f3fed              152 Release
+ 16c3c0fad286890dfcd9ae8a94b8065e1b46cab4b6de6f03a6a6f1a5f949168c             1064 main/binary-amd64/Packages
+ 7763f055856be5536df467881fbadb771e46c958a870e53b7894d4e25189a375              622 main/binary-amd64/Packages.gz
+SHA512:
+ 83c0e834fbf733200bb55c9a13cbc08f259595bfbfe5dca391f089130c5f504b4e6f1f9911aec7ea4c75bfeace2ffbd3406b852b301cf510946fc5abaff0bc9f              152 Release
+ 293d89ba3e32cd14f27f937841b0d2ce20dbd9f6091fba02d2478bdf05130df6891cbac329e506bf6b4fd4de5725ba1a65d55c03bb89eb5d95a1fcd03794f477             1064 main/binary-amd64/Packages
+ 7b2ad9df690d31f68207dba0288d3698f1de7c684a4c9b130d141426c6a6fe1775bbe73e6ff683c1cc4f8ee986abbc20b4b26abb2b051a70c95ad36670e0a958              622 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEETXfx+MkhIxe7moa+9RaBFN1drvAFAmr5RVgACgkQ9RaBFN1d
+rvDhlg//Wtr8kCt3peLuvi9ghy1qxAXAUSq2xCEXr4/zuLXMk0iRHWBy3GngAj+Z
+lW/gRmv6XNkRwQiQjjN4DcQy8VGC/t0l5S7fwKm0hCRMip9YGA2e4yv/ZYAkK9ey
+CDXv8BQkvYIMXW0OqtEGEcDzZD2ub3lSkxt5jj6RDPu3Cw6+3cf6yoV5WpAF2lhl
+lKtQOe05sSegLwxNqJuKXTpSuA1LxEF706iAHNLiMLd6+XK6isZKUsN3mGcaxHCe
+4ZlWYmxNjlbjTU5dzE7JcLLxYK7+6iR66buz4Mj33ftkXTV5/W2MN3KLdKlGaU6U
+Uuy6bRVS28n9f+X0UryCC66Kd01juUFHzu6J6xWaN1HVzmD3Py9Iy1GIMtW7WZq/
+r6KdrJAoSxx2guTTNXRzUCz+tUntkycUg6SR/FB7JC4Tz6XXaWSbk5ud5nmZXF6y
+JlbXdmPw9YXPVBxzvg/RSccNXpXLYRfllweEGg777+5FHVfw0l7a0pHSFWnOyvkm
+TyS280+jQ2zsHctSg8mmx35ab2cK33t0m8C9uX+JN+o1BuB8NmI4HoTbknG3o6tz
+fjhh86KoyRXArQbUzar0yQz+BN1yRuEzW9fx/MFTrDVKJL2H2aKl3pHwn9ZvNnKO
+zoMEXOMJ2iYAxXfPCS99aMjiob63Q29pQEnwSlU11DBOsMAt4mw=
+=bOMj
+-----END PGP SIGNATURE-----

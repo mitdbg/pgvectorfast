@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: trixie
+Components: main
+Date: Sun, 15 Nov 2026 05:38:30 +0000
+Label: pgvectorfast
+Origin: pgvectorfast
+Suite: trixie
+MD5Sum:
+ c1b5c03940637404b1eb1d497dbf4466              148 Release
+ ff611edfbfbcdeb17db0c5b7f668ea8c             1062 main/binary-amd64/Packages
+ c85a880be91fd3afd64a93162783b5bc              622 main/binary-amd64/Packages.gz
+SHA1:
+ b7fec68d67f349f6277e68412d3dc4177d98a3d8              148 Release
+ 05c374e8fc40b9e272c2ea73ec333d453ec52f0e             1062 main/binary-amd64/Packages
+ 0f03e06abec2444942425758dc8198caa92d905c              622 main/binary-amd64/Packages.gz
+SHA256:
+ 08d37784a63a8ef248c2fa04e9cde93e13f71a624ca45c1069b1c007566e842a              148 Release
+ d986d28aa63961b60626b62ab9b859b48d078e58f344747da6e1feb2557f9c6b             1062 main/binary-amd64/Packages
+ eddcf7bf77395352b0a61a71aafafeeaabd67074740cc60623221a901aa49b1b              622 main/binary-amd64/Packages.gz
+SHA512:
+ 4be59f176c73143ec210f08a80af907be299a9e2f2beba1ada0e6a193bcd3b11b1befec7798455302d094529dfc536b426a1941fd5bae024e8a21177a114432c              148 Release
+ b3b171ff0d0ba6dd1b5ac8376dde4dd184aef96002518ffa1efd0c5582a452de07281884c7cb7e61b42c528aabedc88a351e3e80cc33f651c6828fb0e27b4d83             1062 main/binary-amd64/Packages
+ 216a1822c918f256b1ec1bd98442e61c2210b8a1bba697f3940becc3df734b8869218c3b5c02aec0a1aca72712a7653273de993ed83c01159b95247790b87529              622 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEETXfx+MkhIxe7moa+9RaBFN1drvAFAmr5RVcACgkQ9RaBFN1d
+rvC1kRAA52h7yiUbbM7hPsR5kPxyFk6Gwn8BeJqqxfnr8VEZDGZLM3PIXDBhavtL
+bF20LChe/bq5CUuI2PG5yvRB/o3phES9zwNxsYNN6gDQkHGtpMntV6VCcP4vuGVK
+B+cg4qLVlgvO0RQNSluUEK0Km4um/IGaSmpsIW6clsuwx1uy7xm1F90wBRDwPZKJ
+jnhQDx4tGuPvrRziSQ8jTXmQCf3sESC2gsJdZrJOPrePdGfK5h6XKY+pRIoDkMGk
+DQxiG4gegAop0O48bRyJbHmTkHi7p1rBwrNZOamA2ZFuWwmoYF8Lr5jgJgwrOsqL
+0GNWllAyt5381jzGcEHiUcBoOh2sJ/g4YJ5kfElQDSbCkP8D8Y/oiXCxjw5aiq3J
+mNTUJ5YGGtpqPzKruPCyYqzHw64/r01scr1z22WQEuPsGpc3QF78a16yUUVoCWQn
+5VPHp3UZZV7adxnWNSLhSSAPi4OxNjQJ/bujl/Mh2Wv2YE0mrxVSIu3SYhFVj9au
+Ph95hKlV/71SyJEvvFakj2C+VNseTx8hvF58YW4AHPI5v9QyC5w3oJ6fCMWrxoC7
+PfEZ0gfG9C+k5GuxcFzB5A0a8KCG7g/SmQJwF781wy737Zqg4Oue/FiWtSE2//lh
+qBGxhBk3XYGO415rbuTRnzNcJYFDXiA5zfDTcZxIFB08jPNzAFQ=
+=3Z5s
+-----END PGP SIGNATURE-----
