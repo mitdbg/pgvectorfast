@@ -42,3 +42,25 @@ Description: Fast pgvector + Calico shared buffer pool extension for PostgreSQL 
  and bit types alongside the Calico array-based shared buffer pool manager,
  optimistic lock-free HNSW reads, and batched group prefetching.
 
+Package: postgresql-18-pgvectorfast
+Version: 0.2.1+pg18.7-1.pgdg13+2
+Architecture: amd64
+Maintainer: Xinjing Zhou <zxjcarrot@gmail.com>
+Installed-Size: 3344
+Depends: libc6 (>= 2.38), libcapstone5 (>= 5), postgresql-18 (= 18.7-1.pgdg13+2), postgresql-18-dbgsym (= 18.7-1.pgdg13+2)
+Conflicts: postgresql-18-pgvector
+Replaces: postgresql-18-pgvector
+Provides: postgresql-18-pgvector
+Filename: pool/trixie/main/p/postgresql-18-pgvectorfast/postgresql-18-pgvectorfast_0.2.1+pg18.7-1.pgdg13+2_amd64.deb
+Size: 1089220
+MD5sum: 9429cd0520633f3c0d8ecc55938eeb75
+SHA1: c1772876407afa164a361adb71082546d5329d5d
+SHA256: 18d8f39b0fddf1c0bcc16b3f69b3a3d34833836c62bac9826151e35ff9f3a913
+Section: database
+Priority: optional
+Homepage: https://github.com/mitdbg/pgvectorfast
+Description: Fast pgvector + Calico shared buffer pool extension for PostgreSQL 18
+ Drop-in replacement for pgvector providing the vector, halfvec, sparsevec,
+ and bit types alongside the Calico array-based shared buffer pool manager,
+ optimistic lock-free HNSW reads, and batched group prefetching.
+
